@@ -1,4 +1,4 @@
-# Craftable-Sculk-MCBE-
+Craftable Sculk Addon (MCBE)
 Addon that adds crafting recipes for all Sculk Blocks for Bedrock Edition. 
 Made for players that cannot update their games from 1.18.10 due to RenderDragon implementation.
 
@@ -18,21 +18,16 @@ In versions before 1.19 you WILL need to enable the "Wild Update" and "Vanilla E
 --RECIPES--
 
 Sculk Block (x2):
-  -2x Cobblestone 
-  -2x Bottle O' Enchanting
+![sculk](https://user-images.githubusercontent.com/65324522/188246498-a025439f-36e3-407e-84f7-daeb61127eb5.png)
 
 Sculk Vein:
-  -2x Sculk
+![sculkvein](https://user-images.githubusercontent.com/65324522/188246522-ce23cf16-cff1-4ab8-b624-e0cabc903c09.png)
 
 Sculk Sensor:
-  -1x Observer
-  -3x Sculk
+![sculksensor](https://user-images.githubusercontent.com/65324522/188246517-55c9227d-db0c-4725-a88f-ec537e9c57a8.png)
 
 Sculk Shrieker:
-  -2x Bone
-  -1x Goat Horn
+![sculkshrieker](https://user-images.githubusercontent.com/65324522/188246512-6a61fc03-0eb8-46c1-af31-da8139e7820b.png)
 
 Sculk Catalyst:
-  -5x Sculk
-  -1x Soul Sand
-  -3x Bone Block
+![sculkcatalyst](https://user-images.githubusercontent.com/65324522/188246510-5b2da9bd-1888-4ee2-8306-8982d967c2b9.png)
